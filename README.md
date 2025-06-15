@@ -1,4 +1,4 @@
-## 📫 Contatos
+## 📫 Contato
 
 <a href="mailto:adielemilson@gmail.com">
   <img src="https://img.shields.io/badge/email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
