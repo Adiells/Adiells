@@ -2,7 +2,11 @@
 
 ### About Me
 
-Welcome to my GitHub profile! I'm a **student of Data Science and Artificial Intelligence** at the **Federal University of Paraíba (UFPB)**. Here you can follow my journey and the projects I'm developing.
+Welcome to my GitHub profile! I'm a **student of Data Science and Artificial Intelligence** at the **Federal University of Paraíba (UFPB)**.
+
+[🚀 **Check out my Portfolio**](https://adiels.me)
+
+Here you can follow my journey and the projects I'm developing.
 
 ---
 
@@ -31,6 +35,9 @@ This card shows the programming languages I use most in my public projects, givi
 To learn more about my journey or for future projects, feel free to contact me.
 
 <p align="center">
+  <a href="https://adiels.me" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-adiels.me-7946e5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="mailto:adielemilson@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
