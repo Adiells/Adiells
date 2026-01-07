@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I'm a **student of Data Science and Artificial Intelligence** at the **Federal University of Paraíba (UFPB)**.
 
-[🚀 **Check out my Portfolio**](https://adiels.me)
+[🚀 **Check out my Portfolio**](https://adiels.me/portfolio)
 
 Here you can follow my journey and the projects I'm developing.
 
