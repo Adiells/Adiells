@@ -1,4 +1,4 @@
-# Hello, I'm Adiell! 👋
+# Hello, I'm Adiel! 👋
 
 ### About Me
 
