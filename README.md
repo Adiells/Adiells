@@ -25,7 +25,7 @@ Below is a summary of my general GitHub stats, showing my progress and activity.
 This card shows the programming languages I use most in my public projects, giving an idea of my main areas of study.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adiells&layout=compact&langs_count=8&theme=dracula" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adiells&layout=compact&langs_count=8&theme=dracula&hide=jupyter%20notebook" alt="Top Langs" />
 </p>
 
 ---
