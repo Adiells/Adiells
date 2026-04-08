@@ -1,47 +1,57 @@
 # Hello, I'm Adiel! 👋
 
-### About Me
+### 👨‍💻 About Me
 
-Welcome to my GitHub profile! I'm a **student of Data Science and Artificial Intelligence** at the **Federal University of Paraíba (UFPB)**.
+I'm a **student of Data Science and Artificial Intelligence** at the **Federal University of Paraíba (UFPB)**.
 
-[🚀 **Check out my Portfolio**](https://adiels.me/portfolio)
-
-Here you can follow my journey and the projects I'm developing.
-
----
-
-### Profile Stats
-
-Below is a summary of my general GitHub stats, showing my progress and activity.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adiells&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dracula" alt="GitHub stats" />
+<p align="left">
+  <a href="https://adiels.me/portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Portfolio-adiels.me-7946e5?style=for-the-badge&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 ---
 
-### Most Used Languages
+### 📊 Activity Dashboard
 
-This card shows the programming languages I use most in my public projects, giving an idea of my main areas of study.
+<!-- BLOCO PRINCIPAL (lado a lado) -->
+<table width="100%" align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adiells&theme=dracula" width="95%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adiells&theme=tokyonight" width="95%" />
+    </td>
+  </tr>
+</table>
 
+<!-- RESPIRO VISUAL -->
+<br>
+
+<!-- GRÁFICO DE ATIVIDADE -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adiells&layout=compact&langs_count=8&theme=dracula&hide=jupyter%20notebook,handlebars,css,html" alt="Top Langs" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adiells&theme=dracula" width="95%" />
 </p>
 
 ---
 
-### Connect with me
-
-To learn more about my journey or for future projects, feel free to contact me.
+### 🛠️ Connect with me
 
 <p align="center">
-  <a href="https://adiels.me" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-adiels.me-7946e5?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  <b>Connect with me</b>
+</p>
+
+<p align="center">
+  <a href="mailto:adielemilson@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="mailto:adielemilson@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://www.linkedin.com/in/adielemilson/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/adielemilson/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://adiels.me">
+    <img src="https://img.shields.io/badge/Website-7946e5?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
+
+---
