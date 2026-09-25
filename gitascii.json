@@ -1,4 +1,5 @@
 {
+  "username": "Adiells",
   "widgets": [
     {
       "widgetId": "asciiprofile-portrait",
@@ -11522,25 +11523,6 @@
       "instanceId": "widget_1790358013522_1"
     },
     {
-      "widgetId": "asciiprofile-heatmap",
-      "name": "Asciiprofile-heatmap Widget",
-      "position": {
-        "x": 48,
-        "y": 602
-      },
-      "size": {
-        "width": 704,
-        "height": 240
-      },
-      "config": {
-        "accentColor": "#ffa657"
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 3,
-      "instanceId": "widget_1790358013522_2"
-    },
-    {
       "instanceId": "widget_1790358152429",
       "widgetId": "premium-ascii-dev-score",
       "name": "Premium-ascii-dev-score Widget",
@@ -11569,8 +11551,8 @@
       "widgetId": "premium-ascii-coding-velocity",
       "name": "Premium-ascii-coding-velocity Widget",
       "position": {
-        "x": 314,
-        "y": 221
+        "x": 312,
+        "y": 225
       },
       "size": {
         "width": 464,
@@ -11587,6 +11569,40 @@
       "locked": false,
       "visible": true,
       "zIndex": 5
+    },
+    {
+      "instanceId": "widget_1790359300584",
+      "widgetId": "contribution-snake",
+      "name": "Contribution-snake Widget",
+      "position": {
+        "x": 0,
+        "y": 717
+      },
+      "size": {
+        "width": 800,
+        "height": 250
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 6
+    },
+    {
+      "instanceId": "widget_1790359612064",
+      "widgetId": "languages",
+      "name": "Languages Widget",
+      "position": {
+        "x": 0,
+        "y": 549
+      },
+      "size": {
+        "width": 800,
+        "height": 160
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 6
     }
   ],
   "globalStyles": {
@@ -11600,5 +11616,10 @@
     "themeMode": "dark",
     "templateStyle": "ascii_native"
   },
-  "templateId": "ascii_native"
+  "templateId": "ascii_native",
+  "profileSlug": "default",
+  "metadata": {
+    "revision": "rev_1790359650091_1sgen",
+    "updatedAt": "2026-09-25T18:07:33.505Z"
+  }
 }
