@@ -11571,23 +11571,6 @@
       "zIndex": 5
     },
     {
-      "instanceId": "widget_1790359300584",
-      "widgetId": "contribution-snake",
-      "name": "Contribution-snake Widget",
-      "position": {
-        "x": 0,
-        "y": 717
-      },
-      "size": {
-        "width": 800,
-        "height": 250
-      },
-      "config": {},
-      "locked": false,
-      "visible": true,
-      "zIndex": 6
-    },
-    {
       "instanceId": "widget_1790359612064",
       "widgetId": "languages",
       "name": "Languages Widget",
@@ -11636,7 +11619,7 @@
   "templateId": "ascii_native",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1790359857108_4e29y",
-    "updatedAt": "2026-09-25T18:10:59.640Z"
+    "revision": "rev_1790562485164_zzyfy",
+    "updatedAt": "2026-09-28T02:28:08.017Z"
   }
 }
