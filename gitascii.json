@@ -13,7 +13,7 @@
         "height": 312
       },
       "config": {
-        "accentColor": "#ffa657",
+        "accentColor": "#655586",
         "cols": 150,
         "rows": 75,
         "asciiText": [
@@ -11515,7 +11515,19 @@
         "height": 312
       },
       "config": {
-        "accentColor": "#ffa657"
+        "accentColor": "#655586",
+        "staticMode": false,
+        "customLangs": "Python, C, C++",
+        "showFrontend": false,
+        "showBackend": false,
+        "lockAspectRatio": false,
+        "customAlso": "",
+        "customSite": "adiels.me",
+        "hideDecorations": false,
+        "hideBorder": false,
+        "customBullet1": "",
+        "backgroundColor": "#1e1f29",
+        "borderColor": "#2a2c39"
       },
       "locked": false,
       "visible": true,
@@ -11538,9 +11550,9 @@
         "lockAspectRatio": true,
         "transparentBackground": true,
         "backgroundColor": "transparent",
-        "accentColor": "#3fb950",
-        "secondaryColor": "#39c5cf",
-        "borderColor": "#30363d"
+        "accentColor": "#bd93f9",
+        "secondaryColor": "#ff79c6",
+        "borderColor": "#382a47"
       },
       "locked": false,
       "visible": true,
@@ -11562,9 +11574,9 @@
         "lockAspectRatio": true,
         "transparentBackground": true,
         "backgroundColor": "transparent",
-        "accentColor": "#3fb950",
-        "secondaryColor": "#39c5cf",
-        "borderColor": "#30363d"
+        "accentColor": "#bd93f9",
+        "secondaryColor": "#ff79c6",
+        "borderColor": "#382a47"
       },
       "locked": false,
       "visible": true,
@@ -11582,7 +11594,18 @@
         "width": 800,
         "height": 160
       },
-      "config": {},
+      "config": {
+        "accentColor": "#655586",
+        "langsLayout": "bars",
+        "hideLangsArr": [
+          "JavaScript",
+          "CSS",
+          "Makefile",
+          "Jupyter Notebook",
+          "Handlebars"
+        ],
+        "hideLangs": "JavaScript,CSS,Makefile,Jupyter Notebook,Handlebars"
+      },
       "locked": false,
       "visible": true,
       "zIndex": 6
@@ -11593,23 +11616,25 @@
       "name": "Divider Widget",
       "position": {
         "x": 0,
-        "y": 689
+        "y": 697
       },
       "size": {
         "width": 800,
         "height": 30
       },
-      "config": {},
+      "config": {
+        "accentColor": "#655586"
+      },
       "locked": false,
       "visible": true,
       "zIndex": 7
     }
   ],
   "globalStyles": {
-    "backgroundColor": "#0d1117",
-    "textColor": "#e6edf3",
+    "backgroundColor": "#1e1e28",
+    "textColor": "#f8f8f2",
     "accentColor": "#ffa657",
-    "borderColor": "#30363d",
+    "borderColor": "#2a2c39",
     "fontFamily": "'JetBrains Mono', monospace",
     "borderRadius": 0,
     "padding": 24,
@@ -11619,7 +11644,7 @@
   "templateId": "ascii_native",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1790562485164_zzyfy",
-    "updatedAt": "2026-09-28T02:28:08.017Z"
+    "revision": "rev_1791236049384_frfei",
+    "updatedAt": "2026-10-05T21:34:12.691Z"
   }
 }
